@@ -1,1 +1,0 @@
-# lloydagillsr.github.io
