@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "Lloyd A Gill Sr"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "resumepic.jpg"
   bio              : "Retired Navy Chief transitioning into college football scouting, recruiting, player personnel, and operations."
   location         : "Chesapeake, Virginia"
   email            :
